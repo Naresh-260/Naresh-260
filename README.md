@@ -1,3 +1,18 @@
+# 👋 Hi, I'm Naresh Lingammagari
+
+### Full Stack Developer focused on MERN Stack, Java, REST APIs, and scalable web applications.
+
+---
+
+## 💫 About Me
+
+* 🎓 Final-year Engineering Student
+* 💻 Skilled in MERN Stack, Java, SQL, and REST APIs
+* 🚀 Built projects focused on accessibility and real-time services
+* 🧠 Interested in Full Stack Development and Problem Solving
+* 📚 Currently preparing for campus placements
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l_naresh_1904) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nareshlingammagari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lnareshnaru6@gmail.com) 
